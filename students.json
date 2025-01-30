@@ -1,0 +1,1504 @@
+{
+    "_default": {
+        "1": {
+            "id": 100,
+            "name": "Alfa_1",
+            "age": 18,
+            "gender": "male",
+            "contact": "111-222-333-444",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "2": {
+            "id": 101,
+            "name": "Alfa_2",
+            "age": 18,
+            "gender": "female",
+            "contact": "485-365-624-585",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 81,
+                "science": 95,
+                "english": 87
+            },
+            "attendance": 89,
+            "activities": [
+                "dancing",
+                "singing"
+            ],
+            "address": {
+                "street": [
+                    "11 main street"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "3": {
+            "id": 102,
+            "name": "Alfa_3",
+            "age": 18,
+            "gender": "male",
+            "contact": "458-222-321-784",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 69,
+                "science": 70,
+                "english": 21
+            },
+            "attendance": 75.0,
+            "activities": [
+                "coding",
+                "content creating"
+            ],
+            "address": {
+                "street": [
+                    "12 street"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "4": {
+            "id": 103,
+            "name": "Alfa_4",
+            "age": 18,
+            "gender": "male",
+            "contact": "458-965-333-752",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 70,
+                "science": 86,
+                "english": 89
+            },
+            "attendance": 75.9,
+            "activities": [
+                "basketball",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "5": {
+            "id": 104,
+            "name": "Alfa_5",
+            "age": 18,
+            "gender": "female",
+            "contact": "124-778-742-472",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 93,
+                "science": 92,
+                "english": 63
+            },
+            "attendance": 73.3,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "6": {
+            "id": 105,
+            "name": "Alfa_6",
+            "age": 18,
+            "gender": "male",
+            "contact": "586-545-345-742",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 70,
+                "science": 78,
+                "english": 92
+            },
+            "attendance": 88.0,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "7": {
+            "id": 106,
+            "name": "Alfa_7",
+            "age": 18,
+            "gender": "female",
+            "contact": "425-255-635-424",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 69,
+                "science": 76,
+                "english": 74
+            },
+            "attendance": 56.8,
+            "activities": [
+                "basketball",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "8": {
+            "id": 107,
+            "name": "Alfa_8",
+            "age": 18,
+            "gender": "female",
+            "contact": "119-002-333-124",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 88,
+                "science": 62,
+                "english": 62
+            },
+            "attendance": 88.5,
+            "activities": [
+                "dancing",
+                "playing chess"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "9": {
+            "id": 108,
+            "name": "Alfa_9",
+            "age": 18,
+            "gender": "female",
+            "contact": "369-365-355-741",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "singing",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "10": {
+            "id": 109,
+            "name": "Alfa_10",
+            "age": 18,
+            "gender": "male",
+            "contact": "355-682-248-444",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 70,
+                "science": 74,
+                "english": 92
+            },
+            "attendance": 53.7,
+            "activities": [
+                "reading book",
+                "dancing"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "11": {
+            "id": 110,
+            "name": "Alfa_11",
+            "age": 18,
+            "gender": "female",
+            "contact": "118-145-348-124",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 75,
+                "science": 80,
+                "english": 87
+            },
+            "attendance": 89.1,
+            "activities": [
+                "basketball",
+                "playing chess"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "12": {
+            "id": 111,
+            "name": "Alfa_12",
+            "age": 18,
+            "gender": "male",
+            "contact": "389-312-364-648",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 65,
+                "science": 95,
+                "english": 60
+            },
+            "attendance": 58.5,
+            "activities": [
+                "coding",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "13": {
+            "id": 112,
+            "name": "Alfa_13",
+            "age": 18,
+            "gender": "male",
+            "contact": "325-369-854-789",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "singing"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "14": {
+            "id": 113,
+            "name": "Alfa_14",
+            "age": 18,
+            "gender": "male",
+            "contact": "785-785-869-321",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 91,
+                "science": 61,
+                "english": 87
+            },
+            "attendance": 80.4,
+            "activities": [
+                "reading book",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "15": {
+            "id": 114,
+            "name": "Alfa_15",
+            "age": 18,
+            "gender": "female",
+            "contact": "111-245-248-784",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 60,
+                "science": 74,
+                "english": 64
+            },
+            "attendance": 73.1,
+            "activities": [
+                "singing",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "16": {
+            "id": 115,
+            "name": "Alfa_16",
+            "age": 18,
+            "gender": "female",
+            "contact": "758-245-333-414",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 64,
+                "science": 99,
+                "english": 61
+            },
+            "attendance": 57.2,
+            "activities": [
+                "dancing",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "17": {
+            "id": 116,
+            "name": "Alfa_17",
+            "age": 18,
+            "gender": "male",
+            "contact": "782-756-965-657",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 98,
+                "science": 86,
+                "english": 62
+            },
+            "attendance": 73.6,
+            "activities": [
+                "playing chess",
+                "coding"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "18": {
+            "id": 117,
+            "name": "Alfa_18",
+            "age": 18,
+            "gender": "male",
+            "contact": "115-560-555-238",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "19": {
+            "id": 118,
+            "name": "Alfa_19",
+            "age": 18,
+            "gender": "female",
+            "contact": "509-348-750-400",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "20": {
+            "id": 119,
+            "name": "Alfa_20",
+            "age": 18,
+            "gender": "male",
+            "contact": "186-743-218-191",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "coding",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "21": {
+            "id": 120,
+            "name": "Alfa_21",
+            "age": 18,
+            "gender": "female",
+            "contact": "718-514-150-699",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "playing chess"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "22": {
+            "id": 121,
+            "name": "Alfa_22",
+            "age": 18,
+            "gender": "male",
+            "contact": "965-630-104-216",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "23": {
+            "id": 122,
+            "name": "Alfa_23",
+            "age": 18,
+            "gender": "female",
+            "contact": "860-246-923-600",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "24": {
+            "id": 123,
+            "name": "Alfa_24",
+            "age": 18,
+            "gender": "male",
+            "contact": "860-246-923-600",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "coding",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "25": {
+            "id": 124,
+            "name": "Alfa_25",
+            "age": 18,
+            "gender": "male",
+            "contact": "517-806-740-678",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "playing chess"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "26": {
+            "id": 125,
+            "name": "Alfa_26",
+            "age": 18,
+            "gender": "male",
+            "contact": "175-598-925-668",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "dancing",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "27": {
+            "id": 126,
+            "name": "Alfa_27",
+            "age": 18,
+            "gender": "female",
+            "contact": "753-317-342-648",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "playing chess",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "28": {
+            "id": 127,
+            "name": "Alfa_28",
+            "age": 18,
+            "gender": "male",
+            "contact": "444-876-760-742",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "29": {
+            "id": 128,
+            "name": "Alfa_29",
+            "age": 18,
+            "gender": "female",
+            "contact": "850-516-422-461",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "30": {
+            "id": 129,
+            "name": "Alfa_30",
+            "age": 18,
+            "gender": "male",
+            "contact": "360-813-833-659",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "dancing"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "31": {
+            "id": 130,
+            "name": "Alfa_31",
+            "age": 18,
+            "gender": "female",
+            "contact": "585-337-645-232",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "coding",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "32": {
+            "id": 131,
+            "name": "Alfa_32",
+            "age": 18,
+            "gender": "female",
+            "contact": "974-361-887-588",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "playing chess"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "33": {
+            "id": 132,
+            "name": "Alfa_33",
+            "age": 18,
+            "gender": "female",
+            "contact": "811-946-819-570",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "playing chess",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "34": {
+            "id": 133,
+            "name": "Alfa_34",
+            "age": 18,
+            "gender": "female",
+            "contact": "506-874-951-563",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "singing"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "35": {
+            "id": 134,
+            "name": "Alfa_35",
+            "age": 18,
+            "gender": "male",
+            "contact": "135-262-925-758",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "reading book",
+                "playing chess"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "36": {
+            "id": 135,
+            "name": "Alfa_36",
+            "age": 18,
+            "gender": "male",
+            "contact": "825-736-565-503",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 98,
+                "science": 97,
+                "english": 63
+            },
+            "attendance": 85.1,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "37": {
+            "id": 136,
+            "name": "Alfa_37",
+            "age": 18,
+            "gender": "male",
+            "contact": "136-782-335-478",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "coding",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "38": {
+            "id": 137,
+            "name": "Alfa_38",
+            "age": 18,
+            "gender": "female",
+            "contact": "321-460-225-942",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 70,
+                "science": 92,
+                "english": 85
+            },
+            "attendance": 62.8,
+            "activities": [
+                "reading book",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "39": {
+            "id": 138,
+            "name": "Alfa_39",
+            "age": 18,
+            "gender": "female",
+            "contact": "111-282-325-444",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 73,
+                "science": 63,
+                "english": 80
+            },
+            "attendance": 54.3,
+            "activities": [
+                "basketball",
+                "dancing"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "40": {
+            "id": 139,
+            "name": "Alfa_40",
+            "age": 18,
+            "gender": "male",
+            "contact": "178-872-333-441",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 61,
+                "science": 79,
+                "english": 99
+            },
+            "attendance": 60.9,
+            "activities": [
+                "singing",
+                "playing chess"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "41": {
+            "id": 140,
+            "name": "Alfa_41",
+            "age": 18,
+            "gender": "female",
+            "contact": "178-352-333-784",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 82,
+                "science": 74,
+                "english": 94
+            },
+            "attendance": 65.5,
+            "activities": [
+                "reading book",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "42": {
+            "id": 141,
+            "name": "Alfa_42",
+            "age": 18,
+            "gender": "male",
+            "contact": "111-222-333-694",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "playing chess",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "43": {
+            "id": 142,
+            "name": "Alfa_43",
+            "age": 18,
+            "gender": "female",
+            "contact": "251-222-953-425",
+            "grade_level": "grade 8",
+            "subjects": {
+                "math": 74,
+                "science": 65,
+                "english": 92
+            },
+            "attendance": 59.3,
+            "activities": [
+                "dancing",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "44": {
+            "id": 143,
+            "name": "Alfa_44",
+            "age": 18,
+            "gender": "female",
+            "contact": "781-782-333-444",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 87,
+                "science": 67,
+                "english": 97
+            },
+            "attendance": 91.4,
+            "activities": [
+                "coding",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "45": {
+            "id": 144,
+            "name": "Alfa_45",
+            "age": 18,
+            "gender": "female",
+            "contact": "111-852-333-489",
+            "grade_level": "grade 9",
+            "subjects": {
+                "math": 63,
+                "science": 93,
+                "english": 93
+            },
+            "attendance": 61.6,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "46": {
+            "id": 145,
+            "name": "Alfa_46",
+            "age": 18,
+            "gender": "female",
+            "contact": "111-222-333-359",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 80,
+                "science": 75,
+                "english": 85
+            },
+            "attendance": 90.2,
+            "activities": [
+                "basketball",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "47": {
+            "id": 146,
+            "name": "Alfa_47",
+            "age": 18,
+            "gender": "female",
+            "contact": "361-224-378-784",
+            "grade_level": "grade 11",
+            "subjects": {
+                "math": 69,
+                "science": 91,
+                "english": 71
+            },
+            "attendance": 60.3,
+            "activities": [
+                "reading book",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "48": {
+            "id": 147,
+            "name": "Alfa_48",
+            "age": 18,
+            "gender": "male",
+            "contact": "541-482-783-488",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 98,
+                "science": 68,
+                "english": 66
+            },
+            "attendance": 98.4,
+            "activities": [
+                "basketball",
+                "playing chess"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "49": {
+            "id": 148,
+            "name": "Alfa_49",
+            "age": 18,
+            "gender": "male",
+            "contact": "745-275-325-145",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 98,
+                "science": 100,
+                "english": 91
+            },
+            "attendance": 68.0,
+            "activities": [
+                "dancing",
+                "football"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        },
+        "50": {
+            "id": 149,
+            "name": "Alfa_50",
+            "age": 18,
+            "gender": "female",
+            "contact": "325-658-387-447",
+            "grade_level": "grade 10",
+            "subjects": {
+                "math": 97,
+                "science": 84,
+                "english": 93
+            },
+            "attendance": 69.3,
+            "activities": [
+                "singing",
+                "reading book"
+            ],
+            "address": {
+                "street": [
+                    "Mirzo Ulug'bek"
+                ],
+                "city": [
+                    "Tashkent"
+                ],
+                "state": [
+                    "Uzbekistan"
+                ],
+                "zip_code": 10024
+            }
+        }
+    }
+}
